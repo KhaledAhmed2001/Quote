@@ -1,0 +1,31 @@
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  font-family: "Alegreya SC", serif;
+}
+
+body {
+  background-image: url(./image/download\ \(3\).jpg);
+  background-repeat: no-repeat;
+  background-size: 100%;
+  background-position:  center ;
+  background-attachment: fixed;
+  background-clip:padding-box ;
+  color: #BCBCBC;
+}
+
+h1 {
+  margin: 53.6px 0px;
+  font-size: 80px;
+  font-weight: 700;
+  text-align: center;
+  line-height: 80px;
+  color: #fff;
+}
+p{
+    font-size: 35px;
+    
+    /* line-height: 80px; */
+
+}
